@@ -1,5 +1,53 @@
-# Patcher pour Vegas Pro
+[Lisez la version française](#patcher-pour-vegas-pro)
+# Patcher for Vegas Pro
 
+![Patcher Image](https://github.com/user-attachments/assets/c30a448a-3e55-4936-90ce-672a349ce0c7)
+
+## Overview
+
+The Patcher for Vegas Pro is a tool designed to crack [Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/). Developed in just 4 hours, this patcher includes a custom installer created by [danbenba](https://github.com/danbenba) and a patching mechanism based on batch scripts and [CustomInstaller](https://github.com/danbenba/custominstaller). The source code is open, allowing developers to contribute to and customize the tool according to their needs.
+
+## Features
+
+- **Custom Installer**: Easily install the patcher using a user-friendly installer developed by danbenba.
+- **Batch Patching**: Uses batch scripts for efficient, automated patching processes.
+- **Open Source**: Full access to the source code for transparency, customization, and community contributions.
+- **Rapid Deployment**: Quickly developed to meet the immediate needs of Vegas Pro users.
+
+## Installation
+
+### Download
+
+Get the latest version from the [Releases Page](https://github.com/chub-web/VegasPro22Patcher/releases/tag/0.5).
+
+### Steps
+
+1. **Download the Installer**: Go to the [release](https://github.com/chub-web/VegasPro22Patcher/releases/tag/0.5) and download the `Setup.exe` file. 2. **Download the patcher**: Go to the [release page](https://github.com/chub-web/VegasPro22Patcher/releases/tag/0.5) and download the `Vegas.Pro.22.Patcher.exe` or `Vegas.Pro.22.Patcher.jar` file.
+3. **Run the Installer**: Double-click the downloaded file and follow the on-screen instructions to install the patcher.
+4. **Launch the Patcher**: After installation, run the patcher to apply the changes to your Vegas Pro installation.
+
+## Usage
+
+1. **Back Up Your Data**: Before applying patches, ensure you have backed up your Vegas Pro installation and all important projects.
+2. **Run the Patcher**: Launch the patcher application installed on your system.
+3. **Follow the Instructions**: The patcher will guide you through the steps required to apply the patch.
+4. **Restart Your Computer**: After successfully patching, restart your computer to apply the changes.
+
+## Source Code
+
+The complete source code is available in the [GitHub repository](https://github.com/chub-web/VegasPro22Patcher). Feel free to fork the repository, contribute to the project, or customize the patcher to suit your needs.
+
+## Contributing
+
+Contributions are welcome! Whether reporting issues, suggesting features, or submitting pull requests, your participation helps improve the project.
+
+## Disclaimer
+
+Use this patcher at **your own risk**. We are not responsible for any damage or data loss resulting from the use of this tool. Always ensure you have backups before applying patches.
+
+
+# Patcher pour Vegas Pro
+[Read the english version](#patcher-for-vegas-pro)
 ![Image du Patcher](https://github.com/user-attachments/assets/c30a448a-3e55-4936-90ce-672a349ce0c7)
 
 ## Aperçu
