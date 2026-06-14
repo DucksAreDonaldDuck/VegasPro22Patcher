@@ -22,7 +22,7 @@ Get the latest version from the [Releases Page](https://github.com/chub-web/Vega
 
 ### Steps
 
-1. **Download the Installer**: Go to the [release](https://github.com/chub-web/VegasPro22Patcher/releases/tag/0.5) and download the `Setup.exe` file. 2. **Download the patcher**: Go to the [release page](https://github.com/chub-web/VegasPro22Patcher/releases/tag/0.5) and download the `Vegas.Pro.22.Patcher.exe` or `Vegas.Pro.22.Patcher.jar` file.
+1. **Download the Installer**: Go to the [release](https://github.com/chub-web/VegasPro22Patcher/releases/tag/0.5) and download the `Setup.exe` file. 2. **Download the patcher**: Go to the [release page](https://github.com/chub-web/VegasPro22Patcher/releases/tag/0.5) and download the `Vegas.Pro.22.Patcher (English).exe` or `Vegas.Pro.22.Patcher (English).jar` file.
 3. **Run the Installer**: Double-click the downloaded file and follow the on-screen instructions to install the patcher.
 4. **Launch the Patcher**: After installation, run the patcher to apply the changes to your Vegas Pro installation.
 
@@ -70,7 +70,7 @@ Accédez à la dernière version depuis la [Page des Releases](https://github.co
 ### Étapes
 
 1. **Téléchargez l'Installateur** : Rendez-vous sur la [release](https://github.com/chub-web/VegasPro22Patcher/releases/tag/0.5) et téléchargez le fichier `Setup.exe`.
-2. **Téléchargez le patcher** : Rendez-vous sur la [release](https://github.com/chub-web/VegasPro22Patcher/releases/tag/0.5) et téléchargez le fichier `Vegas.Pro.22.Patcher.exe ou Vegas.Pro.22.Patcher.jar`.
+2. **Téléchargez le patcher** : Rendez-vous sur la [release](https://github.com/chub-web/VegasPro22Patcher/releases/tag/0.5) et téléchargez le fichier `Vegas.Pro.22.Patcher (Français).exe ou Vegas.Pro.22.Patcher (Français).jar`.
 3. **Exécutez l'Installateur** : Double-cliquez sur le fichier téléchargé et suivez les instructions à l'écran pour installer le patcher.
 4. **Lancez le Patcher** : Après l'installation, exécutez le patcher pour appliquer les modifications à votre installation de Vegas Pro.
 
